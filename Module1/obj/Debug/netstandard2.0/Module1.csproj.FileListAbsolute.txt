@@ -1,0 +1,9 @@
+D:\Shahid Data\Workspace\ModularAndTenancy\Module1\bin\Debug\netstandard2.0\Module1.deps.json
+D:\Shahid Data\Workspace\ModularAndTenancy\Module1\bin\Debug\netstandard2.0\Module1.dll
+D:\Shahid Data\Workspace\ModularAndTenancy\Module1\bin\Debug\netstandard2.0\Module1.pdb
+D:\Shahid Data\Workspace\ModularAndTenancy\Module1\obj\Debug\netstandard2.0\Module1.csproj.CoreCompileInputs.cache
+D:\Shahid Data\Workspace\ModularAndTenancy\Module1\obj\Debug\netstandard2.0\Module1.AssemblyInfoInputs.cache
+D:\Shahid Data\Workspace\ModularAndTenancy\Module1\obj\Debug\netstandard2.0\Module1.AssemblyInfo.cs
+D:\Shahid Data\Workspace\ModularAndTenancy\Module1\obj\Debug\netstandard2.0\Module1.dll
+D:\Shahid Data\Workspace\ModularAndTenancy\Module1\obj\Debug\netstandard2.0\Module1.pdb
+D:\Shahid Data\Workspace\ModularAndTenancy\Module1\obj\Debug\netstandard2.0\Module1.csprojAssemblyReference.cache

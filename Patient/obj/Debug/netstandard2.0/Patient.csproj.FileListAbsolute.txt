@@ -1,0 +1,9 @@
+D:\Shahid Data\Workspace\ModularAndTenancy\Patient\bin\Debug\netstandard2.0\Patient.deps.json
+D:\Shahid Data\Workspace\ModularAndTenancy\Patient\bin\Debug\netstandard2.0\Patient.dll
+D:\Shahid Data\Workspace\ModularAndTenancy\Patient\bin\Debug\netstandard2.0\Patient.pdb
+D:\Shahid Data\Workspace\ModularAndTenancy\Patient\obj\Debug\netstandard2.0\Patient.csproj.CoreCompileInputs.cache
+D:\Shahid Data\Workspace\ModularAndTenancy\Patient\obj\Debug\netstandard2.0\Patient.AssemblyInfoInputs.cache
+D:\Shahid Data\Workspace\ModularAndTenancy\Patient\obj\Debug\netstandard2.0\Patient.AssemblyInfo.cs
+D:\Shahid Data\Workspace\ModularAndTenancy\Patient\obj\Debug\netstandard2.0\Patient.dll
+D:\Shahid Data\Workspace\ModularAndTenancy\Patient\obj\Debug\netstandard2.0\Patient.pdb
+D:\Shahid Data\Workspace\ModularAndTenancy\Patient\obj\Debug\netstandard2.0\Patient.csprojAssemblyReference.cache

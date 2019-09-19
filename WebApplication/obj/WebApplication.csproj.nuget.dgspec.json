@@ -1,0 +1,431 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\WebApplication\\WebApplication.csproj": {}
+  },
+  "projects": {
+    "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module1\\Module1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module1\\Module1.csproj",
+        "projectName": "Module1",
+        "projectPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module1\\Module1.csproj",
+        "packagesPath": "C:\\Users\\Shahid Ullah\\.nuget\\packages\\",
+        "outputPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shahid Ullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "OrchardCore.Module.Targets": {
+              "target": "Package",
+              "version": "[1.0.0-beta3-71077, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module2\\Module2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module2\\Module2.csproj",
+        "projectName": "Module2",
+        "projectPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module2\\Module2.csproj",
+        "packagesPath": "C:\\Users\\Shahid Ullah\\.nuget\\packages\\",
+        "outputPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shahid Ullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "OrchardCore.Module.Targets": {
+              "target": "Package",
+              "version": "[1.0.0-beta3-71077, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module3\\Module3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module3\\Module3.csproj",
+        "projectName": "Module3",
+        "projectPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module3\\Module3.csproj",
+        "packagesPath": "C:\\Users\\Shahid Ullah\\.nuget\\packages\\",
+        "outputPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shahid Ullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "OrchardCore.Module.Targets": {
+              "target": "Package",
+              "version": "[1.0.0-beta3-71077, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Patient\\Patient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Patient\\Patient.csproj",
+        "projectName": "Patient",
+        "projectPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Patient\\Patient.csproj",
+        "packagesPath": "C:\\Users\\Shahid Ullah\\.nuget\\packages\\",
+        "outputPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Patient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shahid Ullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "OrchardCore.Module.Targets": {
+              "target": "Package",
+              "version": "[1.0.0-beta3-71077, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Ward\\Ward.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Ward\\Ward.csproj",
+        "projectName": "Ward",
+        "projectPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Ward\\Ward.csproj",
+        "packagesPath": "C:\\Users\\Shahid Ullah\\.nuget\\packages\\",
+        "outputPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Ward\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shahid Ullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "OrchardCore.Module.Targets": {
+              "target": "Package",
+              "version": "[1.0.0-beta3-71077, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\WebApplication\\WebApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\WebApplication\\WebApplication.csproj",
+        "projectName": "WebApplication",
+        "projectPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\WebApplication\\WebApplication.csproj",
+        "packagesPath": "C:\\Users\\Shahid Ullah\\.nuget\\packages\\",
+        "outputPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\WebApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shahid Ullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module1\\Module1.csproj": {
+                "projectPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module1\\Module1.csproj"
+              },
+              "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module2\\Module2.csproj": {
+                "projectPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module2\\Module2.csproj"
+              },
+              "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module3\\Module3.csproj": {
+                "projectPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Module3\\Module3.csproj"
+              },
+              "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Patient\\Patient.csproj": {
+                "projectPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Patient\\Patient.csproj"
+              },
+              "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Ward\\Ward.csproj": {
+                "projectPath": "D:\\Shahid Data\\Workspace\\ModularAndTenancy\\Ward\\Ward.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "OrchardCore.Application.Mvc.Targets": {
+              "target": "Package",
+              "version": "[1.0.0-beta3-71077, )"
+            },
+            "OrchardCore.Application.Targets": {
+              "target": "Package",
+              "version": "[1.0.0-beta3-71077, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

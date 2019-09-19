@@ -1,0 +1,9 @@
+D:\Shahid Data\Workspace\ModularAndTenancy\Ward\bin\Debug\netstandard2.0\Ward.deps.json
+D:\Shahid Data\Workspace\ModularAndTenancy\Ward\bin\Debug\netstandard2.0\Ward.dll
+D:\Shahid Data\Workspace\ModularAndTenancy\Ward\bin\Debug\netstandard2.0\Ward.pdb
+D:\Shahid Data\Workspace\ModularAndTenancy\Ward\obj\Debug\netstandard2.0\Ward.csproj.CoreCompileInputs.cache
+D:\Shahid Data\Workspace\ModularAndTenancy\Ward\obj\Debug\netstandard2.0\Ward.AssemblyInfoInputs.cache
+D:\Shahid Data\Workspace\ModularAndTenancy\Ward\obj\Debug\netstandard2.0\Ward.AssemblyInfo.cs
+D:\Shahid Data\Workspace\ModularAndTenancy\Ward\obj\Debug\netstandard2.0\Ward.dll
+D:\Shahid Data\Workspace\ModularAndTenancy\Ward\obj\Debug\netstandard2.0\Ward.pdb
+D:\Shahid Data\Workspace\ModularAndTenancy\Ward\obj\Debug\netstandard2.0\Ward.csprojAssemblyReference.cache
